@@ -1,0 +1,124 @@
+[
+    {
+        "id": 0,
+        "name": "My Name",
+        "email": "myname@mail.com",
+        "profileMsg" : "My profile message",
+        "lastMsg" : "Hello",
+        "backgroundImg" : "https://images.unsplash.com/photo-1650269718113-f668a99c4fda?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "profileImg" : "https://images.unsplash.com/photo-1510227272981-87123e259b17?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=3759e09a5b9fbe53088b23c615b6312e",
+        "hour" : "12",
+        "minute" : "33"
+
+      },
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "profileMsg" : "Lorem ipsum dolor ",
+        "lastMsg" : "amet, consectetur adipiscing elit",
+        "backgroundImg" : "https://images.unsplash.com/photo-1650448211778-da533fd39266?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80",
+        "profileImg" : "https://randomuser.me/api/portraits/women/55.jpg",
+        "hour" : "20",
+        "minute" : "47"
+      },
+      {
+        "id": 2,
+        "name": "Ervin Howell",
+        "email": "Shanna@melissa.tv",
+        "profileMsg" : "Etiam lectus erat,",
+        "lastMsg" : "pharetra ac semper in",
+        "backgroundImg" : "https://images.unsplash.com/photo-1650440018145-94cc5e8a7f2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "profileImg" : "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
+        "hour" : "18",
+        "minute" : "11"
+      },
+      {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "email": "Nathan@yesenia.net",
+        "profileMsg" : "maximus ac ante",
+        "lastMsg" : "ut est ut ante semper",
+        "backgroundImg" : "https://images.unsplash.com/photo-1650435331422-7a806b2b02c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "profileImg" : "https://images.unsplash.com/photo-1482779317240-1e0abab50387?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=ce71d7531849779c0a87f8652b647796",
+        "hour" : "17",
+        "minute" : "15"
+      },
+      {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "email": "Julianne.OConner@kory.org",
+        "profileMsg" : "Sed sed nisi eget tortor ",
+        "lastMsg" : "nisi velit placerat ligula",
+        "backgroundImg" : "https://images.unsplash.com/photo-1650434910011-aa6be391e766?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=676&q=80",
+        "profileImg" : "https://images.unsplash.com/photo-1510520434124-5bc7e642b61d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=18c24dbec0f869f3db98fb0e68d4bebd",
+        "hour" : "16",
+        "minute" : "54"
+      },
+      {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "email": "Lucio_Hettinger@annie.ca",
+        "profileMsg" : "Vivamus malesuada",
+        "lastMsg" : "lorem at massa euismod",
+        "backgroundImg" : "https://images.unsplash.com/photo-1650413891187-c7fe44332a78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "profileImg" : "https://images.unsplash.com/photo-1456327102063-fb5054efe647?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=f05c14dd4db49f08a789e6449604c490",
+        "hour" : "16",
+        "minute" : "00"
+      },
+      {
+        "id": 6,
+        "name": "Mrs. Dennis Schulist",
+        "email": "Karley_Dach@jasper.info",
+        "profileMsg" : "ante non nulla",
+        "lastMsg" : "sed dui pretium",
+        "backgroundImg" : "https://images.unsplash.com/photo-1650440779984-6eb97f9808a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "profileImg" : "https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
+        "hour" : "15",
+        "minute" : "31"
+      },
+      {
+        "id": 7,
+        "name": "Kurtis Weissnat",
+        "email": "Telly.Hoeger@billy.biz",
+        "profileMsg" : "nisi et porttitor ultrices",
+        "lastMsg" : "mollis magna a eros",
+        "backgroundImg" : "https://images.unsplash.com/photo-1650287450059-c49fb758447e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+        "profileImg" : "https://randomuser.me/api/portraits/men/86.jpg",
+        "hour" : "15",
+        "minute" : "09"
+      },
+      {
+        "id": 8,
+        "name": "Nicholas Runolfsdottir V",
+        "email": "Sherwood@rosamond.me",
+        "profileMsg" : "rhoncus nec finibus",
+        "lastMsg" : "et malesuada fames",
+        "backgroundImg" : "https://images.unsplash.com/photo-1650407930347-4201fe84eed2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "profileImg" : "https://randomuser.me/api/portraits/men/16.jpg",
+        "hour" : "14",
+        "minute" : "20"
+      },
+      {
+        "id": 9,
+        "name": "Glenna Reichert",
+        "email": "Chaim_McDermott@dana.io",
+        "profileMsg" : "Proin quam lectus",
+        "lastMsg" : " efficitur a tortor a",
+        "backgroundImg" : "https://images.unsplash.com/photo-1645552978113-3e198e49b413?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "profileImg" : "https://randomuser.me/api/portraits/women/8.jpg",
+        "hour" : "12",
+        "minute" : "48"
+      },
+      {
+        "id": 10,
+        "name": "Clementina DuBuque",
+        "email": "Rey.Padberg@karina.biz",
+        "profileMsg" : "arcu nibh rutrum nunc",
+        "lastMsg" : "pharetra libero fermentum",
+        "backgroundImg" : "https://images.unsplash.com/photo-1650421515506-32477a2e8ea5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "profileImg" : "https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
+        "hour" : "09",
+        "minute" : "12"
+      }
+]

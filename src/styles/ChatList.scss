@@ -1,0 +1,33 @@
+//chatlist.scss
+$fontColor : #8e9399;
+
+.chats_img{
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    border-radius: 50%;
+    background-size: contain;
+}
+
+.chats_cont{
+    flex: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .chats_name{
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+    .chats_latest{
+        font-size: 12px;
+        color: $fontColor;        
+    }
+}
+
+.chats_time{
+    margin-right: 15px;
+    font-size: 12px;
+    color: $fontColor;
+}

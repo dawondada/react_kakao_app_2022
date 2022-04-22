@@ -1,0 +1,138 @@
+//profile.scss
+$mainColor : #513736;
+$border-line : 1px solid #ebebeb;
+
+body{
+    position: relative;
+
+    .profile_header{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    padding: 0 15px;
+    box-sizing: border-box;
+    color: #fff;
+
+    .status_bar{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        height: 37.5%;
+
+        div{flex: 1;
+        
+            &:nth-child(1){text-align: left;}
+            &:nth-child(2){text-align: center;}
+            &:nth-child(3){text-align: right;}
+            
+            i{padding-right: 5px;}
+        }
+    }
+
+    .title_bar{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        height: 62.2%;
+
+        *{flex: 1; font-size: 16px;}
+
+        h1{
+            order: 2;
+            text-align: center;
+
+            span{color: #f8ea65;}
+        }
+
+        .left_item{
+            order: 1;
+            font-size: 20px;
+            text-align: left;
+        
+            a{color: #fff;opacity: 1;}
+        }
+        .right_item{
+            order: 3;
+            text-align: right;
+
+            a{color: #fff;}
+        }
+    }
+}
+
+.profile_main{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: calc(100% - 10px);
+
+    .background{
+        height: 65%;
+    }
+    .profile{
+        display: flex;
+        justify-content: center;
+        position: relative;
+        width: 100%;
+
+        .profile_img{
+            position: absolute;
+            left: 50%;
+            top: -65px;
+            width: 100px;
+            height: 100px;
+            margin-left: -50px;
+        }
+        .profile_cont{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 45px;
+
+            input{
+                width: 148px;
+                height: 24px;
+                margin: 15px 0 20px;
+                padding: 0 5px;
+                text-align: center;
+            }
+            .profile_menu{
+                display: flex;
+
+                li{
+                    margin: 0 6px;
+
+                    a{
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        font-weight: bold;
+
+                        span{
+                            display: block;
+                            width: 52px;
+                            height: 52px;
+                            margin-bottom: 15px;
+                            border-radius: 50%;
+                            background: #f2f2f2;
+                            line-height: 52px;
+                            text-align: center;
+                            font-size: 20px;
+                            color: $mainColor;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+}
+
+
+

@@ -1,0 +1,42 @@
+[
+    {
+        "id" : "1",
+        "icon" : "fa-solid fa-utensils",
+        "text" : "Order"
+    },
+    {
+        "id" : "2",
+        "icon" : "fa-solid fa-house",
+        "text" : "Store"
+    },
+    {
+        "id" : "3",
+        "icon" : "fa-solid fa-tv",
+        "text" : "TV Channel/Radio"
+    },
+    {
+        "id" : "4",
+        "icon" : "fa-solid fa-pencil",
+        "text" : "Create"
+    },
+    {
+        "id" : "5",
+        "icon" : "fa-solid fa-graduation-cap",
+        "text" : "Education"
+    },
+    {
+        "id" : "6",
+        "icon" : "fa-solid fa-building-columns",
+        "text" : "Politics/Society"
+    },
+    {
+        "id" : "7",
+        "icon" : "fa-solid fa-won-sign",
+        "text" : "Finance"
+    },
+    {
+        "id" : "8",
+        "icon" : "fa-solid fa-video",
+        "text" : "Movie/Music"
+    }
+]
