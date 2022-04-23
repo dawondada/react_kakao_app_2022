@@ -7,6 +7,7 @@ import Memberlist from '../data/Memberlist.json';
 import Pluslist from '../components/Pluslist';
 import '../styles/More.scss';
 
+
 function More() {
   const pluslist = PlusList;
   const friendlist = Memberlist;
@@ -63,17 +64,17 @@ function More() {
               <ul>
                 <li>
                   <Link to={'/kakao_story'}>
-                      <span className='app_icon' style={{backgroundImage : 'url(/img/kakaostory.png)'}}></span>Kakao Story
+                      <span className='app_icon' /*style={{backgroundImage : 'url(/img/kakaostory.png)'}}*/></span>Kakao Story
                   </Link>
                 </li>
                 <li>
                   <Link to={'/kakao_path'}>
-                        <span className='app_icon' style={{backgroundImage : 'url(/img/path.png)'}}></span>Path
+                      <span className='app_icon' /*style={{backgroundImage : 'url(/img/path.png)'}}*/></span>Path
                   </Link>
                 </li>
                 <li>
                   <Link to={'/kakao_friends'}>
-                        <span className='app_icon' style={{backgroundImage : 'url(/img/kakaofriends.png)'}}></span>Kakao friends
+                        <span className='app_icon' /*style={{backgroundImage : 'url(/img/kakaofriends.png)'}}*/></span>Kakao friends
                   </Link>
                 </li>
               </ul>

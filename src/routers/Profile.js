@@ -7,6 +7,7 @@ import '../styles/Profile.scss';
 function Profile() {
     const location = useLocation();
     const {id,name,email,img,bg} = location.state;
+    console.log(location);
 
   return (
     <>
